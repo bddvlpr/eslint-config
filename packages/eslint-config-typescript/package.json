@@ -12,7 +12,9 @@
     "build": "rm -rf dist && tsc"
   },
   "dependencies": {
+    "@bddvlpr/eslint-config": "workspace:^",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
-    "@typescript-eslint/parser": "^7.2.0"
+    "@typescript-eslint/parser": "^7.2.0",
+    "eslint-plugin-import": "^2.29.1"
   }
 }
