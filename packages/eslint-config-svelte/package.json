@@ -1,6 +1,6 @@
 {
   "name": "@bddvlpr/eslint-config-svelte",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My opinionated ESLint configuration for Svelte",
   "author": "Luna Simons <luna@bddvlpr.com>",
   "license": "MIT",
