@@ -3,7 +3,8 @@
     "packages/*"
   ],
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "format": "eslint . --fix"
   },
   "packageManager": "pnpm@8.12.1",
   "devDependencies": {
