@@ -8,6 +8,9 @@ module.exports = {
     node: true,
   },
   parserOptions: {
-    project: "./tsconfig.json",
+    project: "tsconfig.json",
+  },
+  rules: {
+    "@typescript-eslint/naming-convention": "off",
   },
 };

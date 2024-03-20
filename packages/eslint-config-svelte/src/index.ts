@@ -16,4 +16,4 @@ export = {
       },
     },
   ],
-} as Linter.Config;
+} satisfies Linter.Config;
