@@ -2,6 +2,7 @@ import type { Linter } from "eslint";
 
 export = {
   extends: [
+    "@bddvlpr/eslint-config",
     "plugin:@typescript-eslint/recommended",
     "plugin:import/recommended",
   ],

@@ -1,6 +1,6 @@
 {
   "name": "@bddvlpr/eslint-config-typescript",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "My opinionated ESLint configuration for TypeScript",
   "author": "Luna Simons <luna@bddvlpr.com>",
   "license": "MIT",
