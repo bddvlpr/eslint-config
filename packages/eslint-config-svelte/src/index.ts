@@ -7,6 +7,9 @@ export = {
     es2017: true,
     node: true,
   },
+  parserOptions: {
+    extraFileExtensions: [".svelte"],
+  },
   overrides: [
     {
       files: ["*.svelte"],

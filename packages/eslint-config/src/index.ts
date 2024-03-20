@@ -1,7 +1,7 @@
 import type { Linter } from "eslint";
 
 export = {
-  extends: ["eslint:recommended", "plugin:prettier/recommended"],
+  extends: ["eslint:recommended", "prettier"],
   rules: {
     "no-await-in-loop": "error",
     "no-duplicate-imports": "error",
