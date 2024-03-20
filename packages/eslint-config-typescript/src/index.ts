@@ -3,7 +3,7 @@ import type { Linter } from "eslint";
 export = {
   extends: [
     "@bddvlpr/eslint-config",
-    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/strict-type-checked",
     "plugin:import/recommended",
   ],
   parser: "@typescript-eslint/parser",
