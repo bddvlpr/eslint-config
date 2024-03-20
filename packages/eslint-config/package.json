@@ -1,6 +1,6 @@
 {
   "name": "@bddvlpr/eslint-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "My opinionated ESLint configuration",
   "author": "Luna Simons <luna@bddvlpr.com>",
   "license": "MIT",
